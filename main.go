@@ -102,7 +102,6 @@ func crud() {
 			} else {
 				fmt.Println("Employee deleted successfully")
 			}
-
 			crud()
 		}
 	case 5:
